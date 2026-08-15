@@ -1,0 +1,28 @@
+body{
+    margin: 4px;
+}
+nav a {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 10px 0px;
+    margin-right: 1px;
+    padding-top: 0px;
+    padding-bottom: 25px;
+    width: 100px;
+    text-align: center;
+}
+.projetos div {
+    display: inline-block;
+    border: 2px solid black;
+    text-align: left;
+    width: 200px;
+    height: 150px;
+}
+span{
+    display: inline-block;
+    border: 2px solid black;
+}
+footer{
+    border: 2px solid black;
+    padding: 20px 0px;
+}
